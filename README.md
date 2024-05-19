@@ -14,3 +14,6 @@ Estudos de Power Bi
 4-Considere que o lucro é equivalente a:valor venda -custo envio. Qual categoria de produto apresentou maior lucro médio.
 
 5-Qual foi o comportamento da margem de lucro ao longo do tempo? Considere amargem de lucro como o lucro dividido pelo valor venda.
+
+Site Oficialdo Power BIhttps://powerbi.microsoft.com/pt-br/Aplicar relações muitos para muitos no Power BI Desktophttps://learn.microsoft.com/pt-br/power-bi/transform-model/desktop-many-to-many-relationshipsModelar relações no Power BI Desktophttps://learn.microsoft.com/pt-br/power-bi/transform-model/desktop-relationships-understand
+
